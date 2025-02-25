@@ -80,10 +80,4 @@ Our AI-powered approach balances automation and user control.
 
 ---
 
-## 🔗 Repository Link
 
-[GitHub Repository](https://github.com/your-username/Intelligent-IDE-AI)
-
----
-
-Feel free to clone, explore, and contribute!
